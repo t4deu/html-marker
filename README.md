@@ -8,7 +8,7 @@ Usage:
 
     <script>
     var marker = new HtmlMarker({
-      html: '<img class="marker-icon" src="marker.png" /> <p>Marker<p>" />',
+      html: '<img class="marker-icon" src="marker.png" /> <p>Marker</p>',
       position: new google.maps.LatLng(lat, lng),
       map: map
     });
